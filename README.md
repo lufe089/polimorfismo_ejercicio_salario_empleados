@@ -1,4 +1,4 @@
-# polimorfismo_ejercicio_salario_empleados
+# polimorfismo - Ejercicio Salario de Empleados
 Ejercicio que usa conceptos de polimorfismo en POO
 
 ## Enunciado
