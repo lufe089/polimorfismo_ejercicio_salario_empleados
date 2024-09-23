@@ -10,5 +10,5 @@ Diseña un sistema de gestión de nómina para una empresa de desarrollo de soft
 * Los testers reciben un bono del 5% sobre su salario base
 
 El sistema debe ser capaz de:
-* Procesar la nómina de todos los empleados registrados, mostrando el salario calculado para cada uno.
+* Procesar la nómina de todos los empleados registrados, mostrando el salario calculado para cada uno. [ Por cuestión de pruebas cree un metodo "inicializarDatos" en los que cree empleados de todos los tipos al menos dos de cada tipo]
 * Calcular y mostrar el valor total a pagar a todos los empleados.
