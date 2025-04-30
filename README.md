@@ -15,3 +15,18 @@ El sistema debe ser capaz de:
 
 ## Ejemplo
 Para solucionar este ejercicio puede tomar como ejemplo lo desarrollado en https://github.com/300CIS017-Object-Oriented-Programming/solucionHerenciaFigurasGeometricas
+
+## ⚙️ Requerimientos no funcionales
+
+- La solución debe implementar relaciones de herencia de manera adecuada y explícita.
+- Se debe aplicar polimorfismo mediante la sobrescritura de métodos, manteniendo las mismas firmas en la clase base y en las derivadas.
+- Se recomienda incorporar un archivo `.gitignore` en el repositorio para excluir del repo carpetas de archivos de compilación como la carpeta cmake-build-debug y la .idea.
+- Organice el proyecto en carpetas, en el ejemplo puede ver una estructura de directorios que podría seguir.
+- Use un cmake parecido al del ejemplo pues le facilitará la gestión de nuevas clases
+
+## 📦 Entregables
+
+- Diagrama UML desarrollado con sintaxis **Mermaid**.
+- Código fuente documentado y subido al repositorio de **GitHub Classroom** correspondiente.
+- Se evaluará el trabajo en clase más que el producto final.
+
